@@ -62,7 +62,7 @@
 
 ## Код
 
-Ознакомится с кодом можно в "dag_project2.py"
+Ознакомится с кодом можно в "dag_project_scheduled_reporting.py"
 
 ## Результат работы DAG: Отчет в Telegram
 
